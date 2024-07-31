@@ -34,8 +34,7 @@ DB_PASSWORD=contraseña
 ```bash
 php artisan migrate
 ```
-
-Testing:
+Migraciones Testing:
 ```bash
 php artisan migrate --env=testing
 ```
