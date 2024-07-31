@@ -44,14 +44,14 @@ php artisan migrate --env=testing
 php artisan db:seed --class=CategorySeeder
 ```
 
-Uso
+## Uso
 6. Ejecutar el comando para obtener y almacenar productos desde la API:
 
 ```bash
 php artisan fetch:products
 ```
 
-Pruebas
+## Pruebas
 7. Para ejecutar las pruebas unitarias:
 
 ```bash
